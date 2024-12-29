@@ -1,0 +1,4 @@
+project1/__pycache__/*
+railway/__pycache__/*
+railway/migration/__pycache__/*
+static/assets
